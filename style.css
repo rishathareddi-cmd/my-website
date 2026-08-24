@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    background-color: #f2f6ff;
+}
+
+header {
+    background-color: #4a6cf7;
+    color: white;
+    padding: 40px 20px;
+}
+
+main {
+    padding: 50px 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+}
+
+button {
+    background-color: #4a6cf7;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #304fc4;
+}
+
+#message {
+    color: #4a6cf7;
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #222;
+    color: white;
+}
